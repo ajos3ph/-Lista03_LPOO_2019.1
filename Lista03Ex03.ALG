@@ -1,13 +1,26 @@
 Algoritmo "Lista03Ex03"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Aldo Henrique
-// Descrição   :
-// Autor(a)    : André José
+// DescriÃ§Ã£o   : Mostra a soma = 1/1 + 3/2 + 5/3 + 7/4 + ... + 99/50
+// Autor(a)    : AndrÃ© JosÃ©
 // Data atual  : 18/03/2019
-Var
+var
 
+   n:real
+   i:inteiro
+   contador:real
+   soma:real
 
-Inicio
+inicio
 
+   soma<- 0
+   n <- -1
+
+   para i de 1 ate 50 faca
+      contador <- i
+      soma <- soma + (n+2)/contador
+   fimpara
+
+   escreval ("Soma = ", soma)
 
 Fimalgoritmo
