@@ -1,11 +1,11 @@
 Algoritmo "Lista03Ex04"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Aldo Henrique
-// Descrição   : Gera números entre 1000 e 1999
-// Autor(a)    : André José
+// DescriÃ§Ã£o   : Gera nÃºmeros entre 1000 e 1999
+// Autor(a)    : AndrÃ© JosÃ©
 // Data atual  : 18/03/2019
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    i: inteiro
 
 inicio
